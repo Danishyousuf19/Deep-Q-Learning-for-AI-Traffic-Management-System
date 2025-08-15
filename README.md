@@ -41,3 +41,5 @@ The system is trained in a **custom-built simulation** that incorporates:
 
 ## Citation
 If you use this work, please cite:
+
+```D. Yousuf, “Adaptive Traffic Signal Control Using Deep Q-Learning for Optimizing Traffic Clearance Times”. Zenodo, Aug. 13, 2025. doi: 10.5281/zenodo.16837904.```
