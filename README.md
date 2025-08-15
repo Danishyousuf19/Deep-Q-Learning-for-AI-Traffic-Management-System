@@ -1,4 +1,4 @@
-# Adaptive Traffic Signal Control Using Deep Q-Learning
+# daptive Traffic Signal Control Using Deep Q-Learning for Optimizing Traffic Clearance Times
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16837904.svg)](https://doi.org/10.5281/zenodo.16837904)
 
