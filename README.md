@@ -1,6 +1,7 @@
 # Adaptive Traffic Signal Control Using Deep Q-Learning for Optimizing Traffic Clearance Times
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16837904.svg)]([https://doi.org/10.5281/zenodo.16837904](https://doi.org/10.5281/zenodo.16837904))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16837904.svg)](https://doi.org/10.5281/zenodo.16837904)
+
 
 ## Overview
 This project presents an **adaptive traffic signal control framework** using **Deep Q-Learning (DQL)** to optimize lane-by-lane clearance times at urban intersections. Unlike traditional fixed-phase systems, our agent predicts **continuous green times** for each lane, enabling fine-grained, real-time adjustments.
